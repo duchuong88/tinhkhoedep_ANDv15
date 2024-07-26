@@ -199,6 +199,7 @@
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
                                       <entry key="backgroundColor" value="a95c28" />
+                                      <entry key="iconShape" value="CIRCLE" />
                                       <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\tinh.ezs.vn\Media\logo.png" />
                                     </map>
                                   </option>
@@ -228,7 +229,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\tinh.ezs.vn\Media\Logo_goc.png" />
+                                                <entry key="imagePath" value="C:\Users\admin\Documents\Downloads\tinh.ezs.vn\Media\logo.png" />
                                                 <entry key="paddingPercent" value="-10" />
                                               </map>
                                             </option>
@@ -262,7 +263,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\tinh.ezs.vn\Media\Logo_goc.png" />
+                                      <entry key="imageAsset" value="C:\Users\admin\Documents\Downloads\tinh.ezs.vn\Media\logo.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
